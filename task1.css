@@ -1,0 +1,33 @@
+.navbar{
+  background-color: aquamarine;
+  padding:20px;
+overflow: hidden;
+margin-bottom: 30px;
+width: 100%;
+}
+
+.navbar a{
+padding:15px;
+}
+
+.one img{
+  display: block;
+  margin:0 auto;
+  width: 100%;  
+}
+
+.images img ,.image img{
+ margin-top: 50px;
+ margin: 20px;
+  display: inline;
+  width:30%;  
+}
+
+.contact p,a{
+  display:inline;  
+}
+
+.contact p{
+  font-weight: bold;
+  font-size: 20px;
+}
